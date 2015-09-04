@@ -47,15 +47,15 @@ let refreshTimeValue = Int(SettingsManager.sharedInstance.refreshTime)
 
 ## Screenshots
 
-**iPhone 4S**
+**iPhone 4s**
 
 ![ScreenShot iPhone4s](../master/Screenshots/main-1t.png)
 ![ScreenShot iPhone4S](../master/Screenshots/main-2t.png)
 
 **iPhone 5**
 
-![ScreenShot iPhone5](../master/Screenshots/main-1t.png)
-![ScreenShot iPhone5](../master/Screenshots/main-2t.png)
+![ScreenShot iPhone5](../master/Screenshots/iphone5-1t.png)
+![ScreenShot iPhone5](../master/Screenshots/iphone5-2t.png)
 
 **iPhone 6**
 
@@ -70,5 +70,3 @@ let refreshTimeValue = Int(SettingsManager.sharedInstance.refreshTime)
 
 ## License
 SwiftSettingsManager is available under the MIT license. See the LICENSE file for more info.
-
-
